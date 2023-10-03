@@ -10,7 +10,7 @@
 
 Clonez ce dépôt : 
 
-<code>git clone tadadi</code>
+<code>git clone https://github.com/HugoD66/WIK-DPS-TP01.git </code>
 
 Accédez au répertoir du projet 
 
